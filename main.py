@@ -8,6 +8,7 @@ from datetime import datetime
 
 PATH = "C:\\Program Files (x86)\\chromedriver.exe"
 class_id = sys.argv[1]
+a = 1
 
 def delete_overlay():
     try:
